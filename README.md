@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+* 😄 你好~，我是 @ShaoGitHub，工作在杭州，一个略懂Objective-C、Swift、Vue、Flutter的程序猿。
+* 🌱 目前业余时间在学习Swift、Vue、Flutter等技术，学以致用的来精仿 微信 App，通过项目的实践，来打磨自己的技术。
+* 🔭 坚持业余时间分享一些工作中遇到的技术难题和实际解决方案，编写技术方案解决之道，希望能够传道、授业、解惑。
+* Blog
+* 📫 技术上有疑惑？理解上有问题？实现上有新方案？还请联系我，我非常乐意帮助！欢迎大神们多多指点🙏
+* 邮箱：shao134624@163.com
+* ♥️ 代码如人，见字如面，开源不易，感谢Star
